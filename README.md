@@ -3,5 +3,5 @@
 
 ## 参考:
 
-- ** [CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) **
-- ** [lb2281075105/Python-Spider](https://github.com/lb2281075105/Python-Spider) **
+- [CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model)
+- [lb2281075105/Python-Spider](https://github.com/lb2281075105/Python-Spider)
