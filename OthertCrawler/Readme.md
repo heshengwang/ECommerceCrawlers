@@ -57,7 +57,7 @@
 使用队列，多线程优化爬虫
 
 
-###[0x06douban_music](0x06douban_music.py)
+### [0x06douban_music](0x06douban_music)
 
 **关于爬取豆瓣音乐排的爬虫[分析与描述](0x06douban_music/readme.md)**
 
