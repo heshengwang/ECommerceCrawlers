@@ -54,7 +54,7 @@
 
 **练习知识点**
 
-使用队列，多线程优化爬虫
+- 使用队列，多线程优化爬虫
 
 
 ### [0x06douban_music](0x06douban_music)
@@ -62,6 +62,7 @@
 **关于爬取豆瓣音乐排的爬虫[分析与描述](0x06douban_music/readme.md)**
 
 **练习知识点**
- -正则匹配数据
+
+ - re正则表达式、csv文件存储和Beautifulsoup库
 
 
