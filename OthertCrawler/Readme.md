@@ -15,6 +15,8 @@
 
 - [0x04 包图网视频](#0x04baotu)
 
+- [0x06 douban_music](#0x06douban_music)
+
 
 ## 有趣的爬虫介绍
 
@@ -54,5 +56,12 @@
 
 使用队列，多线程优化爬虫
 
+
+###[0x06douban_music](0x06douban_music.py)
+
+**关于爬取豆瓣音乐排的爬虫[分析与描述](0x06douban_music/readme.md)**
+
+**练习知识点**
+ -正则匹配数据
 
 
