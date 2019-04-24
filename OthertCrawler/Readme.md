@@ -14,7 +14,7 @@
 - [x] [0x04 包图网视频](#0x04baotu)
 - [ ] [0x05 全景网图片](#0x05quanjing) 
 - [x] [0x06 douban_music](#0x06douban_music)
-- [x] [0x07 闲鱼商品](# 0x07xianyu)
+- [x] [0x07 闲鱼商品](#0x07xianyu)
 
 
 ## 有趣的爬虫介绍
