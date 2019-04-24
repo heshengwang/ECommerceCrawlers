@@ -7,6 +7,7 @@
 
 ## 有趣的爬虫
 
+
 - [x] [0x01 百度贴吧](#0x01baidutieba)
 - [x] [0x02 豆瓣电影](#0x02doubanmovie)
 - [x] [0x03 阿里任务](#0x03alitask)
@@ -14,6 +15,7 @@
 - [ ] [0x05 全景网图片](#0x05quanjing) 
 - [x] [0x06 douban_music](#0x06douban_music)
 - [x] [0x07 闲鱼商品](# 0x07xianyu)
+
 
 ## 有趣的爬虫介绍
 
@@ -62,7 +64,7 @@
 
  - re正则表达式、csv文件存储和Beautifulsoup库
 
-### [0x07闲鱼](0x07xianyu)
+### [0x07xianyu](0x07xianyu)
 
 **关于闲鱼关键字商品的爬取[分析与描述](0x07xianyu/readme.md)**
 
