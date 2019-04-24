@@ -17,6 +17,7 @@
 
 - [0x06 douban_music](#0x06douban_music)
 
+- [0x07 闲鱼商品](# 0x07xianyu)
 
 ## 有趣的爬虫介绍
 
@@ -65,4 +66,12 @@
 
  - re正则表达式、csv文件存储和Beautifulsoup库
 
+### [0x07闲鱼](0x07xianyu)
 
+**关于闲鱼关键字商品的爬取[分析与描述](0x07xianyu/readme.md)**
+
+**练习知识点**
+
+ - pandas中操作csv，文件格式的问题解决
+ - pyquery 的联系使用
+ - 单线程与多线程编程使用
