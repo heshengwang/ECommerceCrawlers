@@ -11,13 +11,13 @@
 - [ ] [DianpingCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/DianpingCrawler)：大众点评爬取
 - [ ] [TaobaoCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/TaobaoCrawler)：淘宝商品爬取
 - [x] [OtherCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler)：一些有趣的爬虫例子
-  - [x] [0x01 百度贴吧](#0x01baidutieba)
+ - [x] [0x01 百度贴吧](#0x01baidutieba)
  - [x] [0x02 豆瓣电影](#0x02doubanmovie)
  - [x] [0x03 阿里任务](#0x03alitask)
  - [x] [0x04 包图网视频](#0x04baotu)
  - [ ] [0x05 全景网图片](#0x05quanjing) 
  - [x] [0x06 douban_music](#0x06douban_music)
- - [x] [0x07 闲鱼商品](# 0x07xianyu)
+ - [x] [0x07 闲鱼商品](#0x07xianyu)
 
 ## Example:
 
