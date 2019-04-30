@@ -35,7 +35,7 @@ pyquery可以根据`class`，`id`，`div`的属性进行解析。
 
 ### 0x04 异步爬取
 
-核心使用异步请求的方式[传送门README]()
+核心使用异步请求的方式[传送门README](asyxianyuREADME.md)
 
 [项目部分代码.py]()
 
@@ -47,6 +47,6 @@ pyquery可以根据`class`，`id`，`div`的属性进行解析。
 
 ![](https://raw.githubusercontent.com/Hatcat123/GraphicBed/master/Img/20190424141200.png)
 
-** 异步爬取时间**
+**异步爬取时间**
 
 忘了截图*100次请求大概用了6-8s
