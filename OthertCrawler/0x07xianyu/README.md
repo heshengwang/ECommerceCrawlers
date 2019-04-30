@@ -33,11 +33,17 @@ pyquery解析商品数据返回可迭代的对象。
 
 pyquery可以根据`class`，`id`，`div`的属性进行解析。
 
+### 0x04 异步爬取
 
-### 0x04 结果对比
+核心使用异步请求的方式[传送门README]()
+
+
+### 0x05 结果对比
 
 **单线程爬取时间**
 
 ![](https://raw.githubusercontent.com/Hatcat123/GraphicBed/master/Img/20190424141200.png)
 
-** 多线程爬取时间**
+** 异步爬取时间**
+
+忘了截图*100次请求大概用了6-8s
