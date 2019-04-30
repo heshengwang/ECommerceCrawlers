@@ -39,7 +39,7 @@ pyquery可以根据`class`，`id`，`div`的属性进行解析。
 
 [项目部分代码.py]()
 
-[具体项目]()
+[具体项目](https://github.com/Hatcat123/XianyuSdd)
 
 ### 0x05 结果对比
 
