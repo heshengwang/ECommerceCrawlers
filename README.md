@@ -18,10 +18,32 @@
   - [ ] [0x05 全景网图片](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x05quanjing) 
   - [x] [0x06 douban_music](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x06douban_music)
   - [x] [0x07 闲鱼商品](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x07xianyu)
-  - [x] [0x08 某省药监局](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x06gdfda_pharmacy)
+  - [x] [0x08 某省药监局](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x08gdfda_pharmacy)
 
+## What You Learn ?
 
-## Example:
+本项目使用了哪些有用的技术
+
+- 数据分析
+  - [x] chrome Devtools
+  - [x] Fiddler
+- 数据采集
+  - [x] requests
+  - [ ] scrapy 
+- 反爬验证
+  - [x] mitmproxy 绕过淘宝检测
+  - [x] js数据解密
+  - [x] js数据生成对应指纹库
+- 数据保存 
+  - [x] txt文本
+  - [x] csv
+  - [x] excel
+
+## Padding
+
+…………
+
+## Awesome-Example:
 
 - [CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model)
 

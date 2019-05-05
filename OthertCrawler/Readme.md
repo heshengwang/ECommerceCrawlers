@@ -15,7 +15,7 @@
 - [ ] [0x05 全景网图片](#0x05quanjing) 
 - [x] [0x06 douban_music](#0x06douban_music)
 - [x] [0x07 闲鱼商品](#0x07xianyu)
-
+- [x] [0x08 药监局](#0x080gdfda_pharmacy)
 
 ## 有趣的爬虫介绍
 
@@ -72,4 +72,15 @@
 
  - pandas中操作csv，文件格式的问题解决
  - pyquery 的联系使用
+ - 单线程与多线程编程使用
+
+
+### [0x08gdfda_pharmacy](0x08gdfda_pharmacy)
+
+**关于某省药监局的爬取[分析与描述](0x08gdfda_pharmacy/readme.md)**
+
+**练习知识点**
+
+ - 队列编程
+ - re正则表达式、csv文件存储
  - 单线程与多线程编程使用
