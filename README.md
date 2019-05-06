@@ -7,6 +7,8 @@
 
 通过每个项目的readme，了解爬取过程分析。
 
+🙋🏻‍♀️🐍🕷🕸⭕️❌💢📛✅✅❎🔘☑️🔕🔔🇨🇳🤩😍😀😁😄👏✍️
+
 ## CrawlerDemo
 - [x] [DianpingCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/DianpingCrawler)：大众点评爬取
 - [ ] [TaobaoCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/TaobaoCrawler)：淘宝商品爬取
