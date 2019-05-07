@@ -11,6 +11,7 @@
  
 在目标的驱动下，你的学习才会更加精准和高效。那些所有你认为必须的前置知识，都是可以在完成目标的过程中学到的😁😁😁。
  
+欢迎大家对本项目的不足加以指正，🔘Issues或者🔔Pr
 
 🙋🐍🕷🕸⭕️❌💢📛✅✅❎🔘☑️🔕🔔🇨🇳🤩😍😀😁😄✍️
 
@@ -26,6 +27,11 @@
   - [ ] [0x05 全景网图片](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x05quanjing) 
   - [x] [0x06 douban_music](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x06douban_music)
   - [x] [0x07 某省药监局](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x07gdfda_pharmacy)
+
+## Contribution👏
+…………
+
+> wait for you
 
 ## What You Learn ?
 
@@ -142,6 +148,3 @@ scrapy框架
 - [CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model)
 
 - [lb2281075105/Python-Spider](https://github.com/lb2281075105/Python-Spider)
-
-## 贡献👏
-…………
