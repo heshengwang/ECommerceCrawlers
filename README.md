@@ -5,14 +5,17 @@
 
 多种电商商品数据🐍爬虫，整理收集爬虫练习。通过实战项目练习解决一般爬虫中遇到的问题。
 
+
 通过每个项目的readme，了解爬取过程分析。
 
-🙋🐍🕷🕸⭕️❌💢📛✅✅❎🔘☑️🔕🔔🇨🇳🤩😍😀😁😄👏✍️
+对于小白通过✍️实战项目，了解爬虫的从无到有。
+
+🙋🐍🕷🕸⭕️❌💢📛✅✅❎🔘☑️🔕🔔🇨🇳🤩😍😀😁😄✍️
 
 ## CrawlerDemo
 - [x] [DianpingCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/DianpingCrawler)：大众点评爬取
-- [x] [TaobaoCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/TaobaoCrawler)：淘宝商品爬取
-- [x] [XianyuCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler)：闲鱼商品爬取
+- [x] [📛TaobaoCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/TaobaoCrawler)：淘宝商品爬取
+- [x] [📛XianyuCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler)：闲鱼商品爬取
 - [x] [OtherCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler)：一些有趣的爬虫例子
   - [x] [0x01 百度贴吧](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x01baidutieba)
   - [x] [0x02 豆瓣电影](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x02doubanmovie)
@@ -67,7 +70,7 @@
 
 ## What`s Spider 🐍🕷🕸
 
-### 0x01爬虫简介
+### 🙋0x01 爬虫简介
 
 **爬虫**
 
@@ -90,7 +93,7 @@
 无规矩不成方圆，Robots协议就是爬虫中的规矩，它告诉爬虫和搜索引擎哪些页面可以抓取，哪些不可以抓取。
 通常是一个叫作robots.txt的文本文件，放在网站的根目录下。
 
-### 0x02爬取过程
+### 🙋0x02爬取过程
 
 **获取数据**
 
@@ -104,7 +107,7 @@
 **yquery**
 **css**
 
-### 0x04 存储数据
+### 🙋0x04 存储数据
 
 小规模数据存储（文本）
 txt文本
@@ -116,13 +119,13 @@ mysql
 redis
 mongodb
 
-### 0x05 反爬措施
+### 🙋0x05 反爬措施
 
 反爬
 
 反反爬
 
-### 0x06 效率爬虫
+### 🙋0x06 效率爬虫
 
 异步协程
 
@@ -137,3 +140,6 @@ scrapy框架
 - [CriseLYJ/awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model)
 
 - [lb2281075105/Python-Spider](https://github.com/lb2281075105/Python-Spider)
+
+## 贡献👏
+…………
