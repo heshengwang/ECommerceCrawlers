@@ -11,9 +11,8 @@
  
 在目标的驱动下，你的学习才会更加精准和高效。那些所有你认为必须的前置知识，都是可以在完成目标的过程中学到的😁😁😁。
  
-欢迎大家对本项目的不足加以指正，🔘Issues或者🔔Pr
+欢迎大家对本项目的不足加以指正，⭕️Issues或者🔔Pr
 
-🙋🐍🕷🕸⭕️❌💢📛✅✅❎🔘☑️🔕🔔🇨🇳🤩😍😀😁😄✍️
 
 ## CrawlerDemo
 - [x] [DianpingCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/DianpingCrawler)：大众点评爬取
