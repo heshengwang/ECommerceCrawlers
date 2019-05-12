@@ -15,6 +15,7 @@
 - [ ] [0x05 全景网图片](#0x05quanjing) 
 - [x] [0x06 douban_music](#0x06douban_music)
 - [x] [0x07 药监局](#0x07gdfda_pharmacy)
+- [x] [0x08 fofa](#0x08Fofa)
 
 ## 有趣的爬虫介绍
 
@@ -74,3 +75,14 @@
  - 队列编程
  - re正则表达式、csv文件存储
  - 单线程与多线程编程使用
+
+
+### [0x08Fofa](0x08Fofa)
+
+**关于fofa资产信息采集[分析与描述](0x08Fofa/readme.md)**
+
+**练习知识点**
+
+- 使用无头浏览器爬虫
+- 数据库使用
+- pyquery

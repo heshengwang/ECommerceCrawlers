@@ -29,6 +29,7 @@
   - [ ] [0x05 全景网图片](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x05quanjing) 
   - [x] [0x06 douban_music](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x06douban_music)
   - [x] [0x07 某省药监局](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x07gdfda_pharmacy)
+  - [x] [0x08 fofa](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x08Fofa)
 
 ## Contribution👏
 …………
