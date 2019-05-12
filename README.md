@@ -9,7 +9,7 @@
 
 对于精通爬虫的pythoner，这将是一个很好的例子减少重复收集轮子的过程。项目经常更新维护，确保即下即用，减少爬取的时间。
 
-对于小白通过✍️实战项目，了解爬虫的从无到有。爬虫可能是一件非常复杂、技术门槛很高的事情，但掌握正确的方法，在短时间内做到能够爬取主流网站的数据，其实非常容易实现，但建议从一开始就要有一个具体的目标。
+对于小白通过✍️实战项目，了解爬虫的从无到有。爬虫过程的分析可以移步[项目wiki]()。爬虫可能是一件非常复杂、技术门槛很高的事情，但掌握正确的方法，在短时间内做到能够爬取主流网站的数据，其实非常容易实现，但建议从一开始就要有一个具体的目标。
  
 在目标的驱动下，你的学习才会更加精准和高效。那些所有你认为必须的前置知识，都是可以在完成目标的过程中学到的😁😁😁。
  
@@ -19,7 +19,8 @@
 ## CrawlerDemo
 - [x] [DianpingCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/DianpingCrawler)：大众点评爬取
 - [x] [📛TaobaoCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/TaobaoCrawler)：淘宝商品爬取
-- [x] [📛XianyuCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler)：闲鱼商品爬取
+- [x] [📛XianyuCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/XianyuCrawler)：闲鱼商品爬取
+- [x] [SohuNewCrawler](https://github.com/DropsDevopsOrg/SohuNewCrawler/tree/master/SohuNewCrawler)：新闻网爬取
 - [x] [OtherCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler)：一些有趣的爬虫例子
   - [x] [0x01 百度贴吧](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x01baidutieba)
   - [x] [0x02 豆瓣电影](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x02doubanmovie)
