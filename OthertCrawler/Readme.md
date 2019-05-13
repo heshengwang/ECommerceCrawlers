@@ -77,9 +77,9 @@
  - 单线程与多线程编程使用
 
 
-### [0x08Fofa](0x08Fofa)
+### [0x08fofa](0x08fofa)
 
-**关于fofa资产信息采集[分析与描述](0x08Fofa/readme.md)**
+**关于fofa资产信息采集[分析与描述](0x08fofa/readme.md)**
 
 **练习知识点**
 

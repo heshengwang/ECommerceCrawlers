@@ -20,7 +20,7 @@
 - [x] [DianpingCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/DianpingCrawler)：大众点评爬取
 - [x] [📛TaobaoCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/TaobaoCrawler)：淘宝商品爬取
 - [x] [📛XianyuCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/XianyuCrawler)：闲鱼商品爬取
-- [x] [SohuNewCrawler](https://github.com/DropsDevopsOrg/SohuNewCrawler/tree/master/SohuNewCrawler)：新闻网爬取
+- [x] [SohuNewCrawler](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/SohuNewCrawler)：新闻网爬取
 - [x] [OtherCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler)：一些有趣的爬虫例子
   - [x] [0x01 百度贴吧](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x01baidutieba)
   - [x] [0x02 豆瓣电影](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x02doubanmovie)
@@ -29,7 +29,7 @@
   - [ ] [0x05 全景网图片](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x05quanjing) 
   - [x] [0x06 douban_music](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x06douban_music)
   - [x] [0x07 某省药监局](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x07gdfda_pharmacy)
-  - [x] [0x08 fofa](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x08Fofa)
+  - [x] [0x08 fofa](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler#0x08fofa)
 
 ## Contribution👏
 …………
